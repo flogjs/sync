@@ -1,3 +1,4 @@
 std/console:1.2.2
 std/streams:0.4.1
 std/dyndef:0.4.1
+std/dyndeff:0.4.1
